@@ -15,10 +15,6 @@
 
 To get a local copy, just follow the steps below:
 
-### Prerequisites
-- [Prerequisite 1]
-- [Prerequisite 2]
-- ...
 
 ### Install
 - In the terminal, run `npm install`
