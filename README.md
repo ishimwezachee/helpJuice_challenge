@@ -1,10 +1,45 @@
+# Landing Page
 
-  # Landing Page (Copy) - 1
+> This is a take-home project to clone the provided page using TailwindCSS and HTML.
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+## Built With
 
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
-  
+- HTML5
+- TailwindCSS
+
+## Project link
+
+[Site Link](https://neon-sawine-884018.netlify.app/)
+
+## Getting Started
+
+To get a local copy, just follow the steps below:
+
+### Prerequisites
+- [Prerequisite 1]
+- [Prerequisite 2]
+- ...
+
+### Install
+- In the terminal, run `npm install`
+
+### Setup
+To get this project on your local machine, follow these steps:
+- Open terminal
+- Clone the repository: [GitHub Repository](https://github.com/ishimwezachee/helpJuice_challenge.git)
+- Navigate to the project folder
+- Run `npm start` to view the project in the browser
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@zacheeIshimwe](https://github.com/ishimwezachee)
+- LinkedIn: [@zacheeIshimwe](https://www.linkedin.com/in/zachee-ishimwe-ab952a119/)
+
+## Acknowledgments
+- Original design idea by Wizardshot
+
+## 📝 License
+
+This project is [MIT licensed](./MIT.md).
